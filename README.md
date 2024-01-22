@@ -13,6 +13,6 @@
 <hr>
 <img align="left" alt="Dinesha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DineshaPriyadarshani&show_icons=true&hide_border=true" />
 
-[website]: https:///DineshaPriyadarshani.github.io/
+[website]: https://dineshapriyadarshani.github.io/
 [linkedin]: https://www.linkedin.com/in/dinesha-priyadarshani/
 [soverflow]: https://stackoverflow.com/users/10359966/dinesha-priyadarshani
